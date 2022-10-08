@@ -1,0 +1,5 @@
+num = int(input("Enter a number: "))
+cube = (num*num*num)
+print("The cube is:",cube)
+square = (num*num)
+print("The square is:",square)
